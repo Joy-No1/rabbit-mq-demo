@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: hmall         # ????????
+    password: 123           # ?????
+    virtual-host: /hmall     # ??????
